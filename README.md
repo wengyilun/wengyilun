@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-
-Here are some ideas to get you started:
+### Here is what I am working on! 👋
 
 - 🔭 I’m currently working on ... Story Squad App
 - 🌱 I’m currently learning ... NextJS
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Portolio Site](https://yilunweng.com)
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I am a vegan
--->
+
